@@ -2,6 +2,8 @@
 
 A Terraform module for creating EC2 instances with integration tests.
 
+# Test
+
 ## Usage
 
 ```hcl
